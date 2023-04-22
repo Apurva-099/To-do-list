@@ -17,6 +17,9 @@ Delete tasks <br />
 
 - Navigate to the project folder (TO DO LIST) and open the `index.html` with the browser.
 
+## LINK THE WEBSITE
+   https://apurva-099.github.io/To-do-list/
+
 ## 👤 Authors
 
 👤 **Apurva Gupta**
